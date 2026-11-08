@@ -1,0 +1,9 @@
+{
+  "LaserIp": "127.0.0.1",
+  "LaserPort": 7890,
+  "LaserPassword": "123456",
+  "TemplatePath": "D:\\template\\label.orzx",
+  "WebPort": 9623,
+  "WebAllowLan": false,
+  "MarkTimeoutMs": 30000
+}

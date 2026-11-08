@@ -1,0 +1,13 @@
+# 编译产物
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# NuGet 包（用 nuget restore 或 VS 还原）
+packages/
+*.nupkg
+
+# 运行期日志
+logs/
